@@ -1,4 +1,4 @@
-# 弥希 Miki 的舰长日报
+# 舰长日报
 
 [![Fetch](https://github.com/Aiba-Asagi/YiMa-Captain/actions/workflows/fetch.yml/badge.svg)](https://github.com/Aiba-Asagi/YiMa-Captain/actions/workflows/fetch.yml) 
 
